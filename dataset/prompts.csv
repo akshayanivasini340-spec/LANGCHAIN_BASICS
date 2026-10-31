@@ -1,0 +1,6 @@
+Category,Prompt
+Admission,Explain college admission details about {question}.
+Course,Explain course information about {question}.
+Examination,Help students with examination details about {question}.
+Library,Answer the library-related question: {question}.
+Activities,Explain student activities about {question}.

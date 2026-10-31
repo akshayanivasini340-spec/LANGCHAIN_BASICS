@@ -1,0 +1,6 @@
+Category,Prompt
+Admission,You are a college admission assistant. Answer this question clearly: {question}
+Course,You are a course information assistant. Answer this question clearly: {question}
+Examination,You are an examination assistant. Answer this question clearly: {question}
+Library,You are a library assistant. Answer this question clearly: {question}
+Activities,You are a college activities assistant. Answer this question clearly: {question}
